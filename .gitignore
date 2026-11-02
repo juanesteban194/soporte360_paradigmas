@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+.bsp/
+.scala-build/
+.scannerwork/
+__pycache__/
+pruebas/salidas/
+sonar/resultado/

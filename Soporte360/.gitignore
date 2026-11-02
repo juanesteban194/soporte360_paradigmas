@@ -1,0 +1,7 @@
+.idea/
+.bsp/
+.scala-build/
+.scannerwork/
+.DS_Store
+sonar/resultado/
+pruebas/salidas/
